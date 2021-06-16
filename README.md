@@ -7,7 +7,7 @@
 
 ### Interesses:
 
-- Backend
+- Back-end
 - Automação 
 - SQLite3
 
