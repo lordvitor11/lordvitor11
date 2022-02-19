@@ -9,6 +9,7 @@
 
 - Back-end
 - Automação 
+- Bot
 - SQLite3
 
 ### 🔥 Hard Skills:
