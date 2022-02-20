@@ -46,4 +46,4 @@
 ### 📞 Converse comigo:
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) LV#0868
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-c%C3%A9sar-358324209/) https://bit.ly/3JzoI4k
+<img src="https://camo.githubusercontent.com/143a7eb4d2fa0047b524adf6b4b7bd59e7fd99a6c767e3d2f7c901fc1476f03a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3141314332363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d303046304646266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f64616e696c6f646f6e61746f2f" data-canonical-src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=00F0FF&amp;link=https://www.linkedin.com/in/vitor-c%C3%A9sar-358324209/" style="max-width: 100%;">
