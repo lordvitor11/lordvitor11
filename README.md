@@ -46,4 +46,4 @@
 ### 📞 Converse comigo:
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) LV#0868
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://bit.ly/3JzoI4k
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-c%C3%A9sar-358324209/) https://bit.ly/3JzoI4k
