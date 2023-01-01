@@ -8,7 +8,7 @@
 <div align="center">
   <h1>Linguagens e Ferramentas</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,vscode">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,vscode,bots">
   </p>
 </div>
 
