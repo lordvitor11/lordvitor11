@@ -8,14 +8,23 @@
 <div align="center">
   <h1>Linguagens e Ferramentas</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,vscode,bots">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=java" title="Java">
+    <img src="https://skillicons.dev/icons?i=python" title="Python">
+    <img src="https://skillicons.dev/icons?i=git" title="Git">
+    <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code">
+    <img src="https://skillicons.dev/icons?i=bots" title="Discord Bot">
   </p>
 </div>
 
 <div align="center">
   <h1>Aprendendo</h1>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,mysql">
+    <img src="https://skillicons.dev/icons?i=php" title="PHP">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
+    
   </p>
 </div>
  
