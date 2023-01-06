@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=php" title="PHP">
     <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS">
+    <img src="https://skillicons.dev/icons?i=react" title="React.JS">
   </p>
 </div>
  
