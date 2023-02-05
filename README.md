@@ -14,7 +14,9 @@
     <img src="https://skillicons.dev/icons?i=java" title="Java">
     <img src="https://skillicons.dev/icons?i=python" title="Python">
     <img src="https://skillicons.dev/icons?i=git" title="Git">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
     <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code">
+    <img src="https://skillicons.dev/icons?i=vim" title="Vim">
     <img src="https://skillicons.dev/icons?i=bots" title="Discord Bot">
   </p>
 </div>
@@ -23,8 +25,6 @@
   <h1>Aprendendo</h1>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=php" title="PHP">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS">
     <img src="https://skillicons.dev/icons?i=react" title="React.JS">
   </p>
 </div>
