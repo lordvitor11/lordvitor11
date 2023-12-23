@@ -26,6 +26,7 @@
   <h1>Aprendendo</h1>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react" title="React.JS">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS">
   </p>
 </div>
  
