@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/vitor-c%C3%A9sar-358324209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> | Meu LinkedIn profissional
 | [![](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/@whoslv_) | Meu IG pessoal
 
-## Tecnologias
+## Tecnologias e Ferramentas
 
 
 <img src="https://skillicons.dev/icons?i=html" title="HTML">
