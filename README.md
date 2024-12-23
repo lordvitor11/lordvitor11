@@ -6,7 +6,7 @@
 
 </div>
  
-- 👋 Olá, me chamo Vitor César, tenho 19 anos, estudo na área desde 2021, porém sem formação e carreira até o momento.
+- 👋 Olá, me chamo Vitor César, tenho 20 anos, estudo na área desde 2021, porém sem formação e carreira até o momento.
 - Autodidata com sede de aprender.
 - Atualmente estou aprendendo JavaScript e PHP, mas não me limitando a esses dois.
 - 📫 Para me encontrar, chama no Whatsapp ou pelo e-mail em: vitorcesarsouza7@gmail.com
