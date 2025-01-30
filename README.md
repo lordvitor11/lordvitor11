@@ -1,4 +1,4 @@
-# </ lordvitor11 > Back-end developer em formação.
+# </ lordvitor11 > Full-Stack developer em formação.
 
 <div align=center> 
 
